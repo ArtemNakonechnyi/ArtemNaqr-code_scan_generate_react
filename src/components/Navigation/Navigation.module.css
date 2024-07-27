@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.link {
+  color: dimgrey;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.link:hover {
+  color: #000;
+  text-decoration: underline;
+}
